@@ -1,1 +1,5 @@
+
 Modificació de l'arxiu a la branca master
+
+modificació del text de l'arxiu de la tramesa
+
